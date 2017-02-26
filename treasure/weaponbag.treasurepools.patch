@@ -1,0 +1,242 @@
+[
+  {
+    "op": "add",
+    "path": "/smallArmsR/0/1/pool/-",
+    "value": {
+      "weight": 1,
+      "item": "WMPnovakidrevolver"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/longGunsR/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPnovakidrifle"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/heavyWeaponsR/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPnovakidrifle"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/1hMeleeC/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPaxe"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/1hMeleeC/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPsword"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/1hMeleeC/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPapexaxe"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/1hMeleeC/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPaviansword"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/1hMeleeC/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPhylotlsickle"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/1hMeleeU/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPeyeaxe"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/1hMeleeR/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPcoralcleaver"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/1hMeleeR/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPdagger"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/1hMeleeR/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPhylotltanto"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/2hMeleeC/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPbonesword"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/2hMeleeC/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPbroadsword"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/2hMeleeC/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPhammer"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/2hMeleeC/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPspear"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/2hMeleeC/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPtoxicbroadsword"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/2hMeleeC/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPapexbroadsword"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/2hMeleeC/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPapexspear"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/2hMeleeC/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPavianspear"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/2hMeleeC/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPfloranbroadsword"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/2hMeleeC/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPfloranhammer"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/2hMeleeC/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPglitchmace"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/2hMeleeC/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPhylotlkatana"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/2hMeleeC/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPmushroomsword"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/2hMeleeU/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPcellshade"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/2hMeleeU/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPcrystalspear"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/2hMeleeU/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPhylotlspear"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/2hMeleeR/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPbonehammer"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/2hMeleeR/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPhackman"
+    }
+  }
+]

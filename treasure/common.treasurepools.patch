@@ -1,0 +1,30 @@
+[
+  {
+    "op": "test",
+    "path": "/smallArmsC"
+  },
+  {
+    "op": "add",
+    "path": "/smallArmsR/0/1/pool/-",
+    "value": {
+      "weight": 1,
+      "item": "WMPnovakidrevolver"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/longGunsR/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPnovakidrifle"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/heavyWeaponsR/0/1/pool/-",
+    "value": {
+      "weight": 0.3,
+      "item": "WMPnovakidrifle"
+    }
+  }
+]

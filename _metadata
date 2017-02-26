@@ -1,0 +1,9 @@
+{
+  "author" : "isaac as THE HONEY BADGER",
+  "description" : "]",
+  "friendlyName" : "",
+  "includes" : ["GDRWCFIX.IHC","gdrwc"],
+  "name" : "RWC-WMP.IHC",
+  "requires" : ["Weapon Megapack"],
+  "version" : "0.1"
+}
